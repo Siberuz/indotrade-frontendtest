@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/indotrading-frontendtest/static/css/main.007db996.css",
+    "main.js": "/indotrading-frontendtest/static/js/main.7e7e482b.js",
+    "static/js/787.19788a51.chunk.js": "/indotrading-frontendtest/static/js/787.19788a51.chunk.js",
+    "static/media/iphone.svg": "/indotrading-frontendtest/static/media/iphone.0d273e356943a200c9ef5d2e4d75fc3a.svg",
+    "static/media/slide1-indo.svg": "/indotrading-frontendtest/static/media/slide1-indo.3501a1086b6d47737f201b89e0928e6e.svg",
+    "static/media/slide3-indo.svg": "/indotrading-frontendtest/static/media/slide3-indo.9f989f83b672e18006f774cda51e58b9.svg",
+    "static/media/slide5-indo.svg": "/indotrading-frontendtest/static/media/slide5-indo.7fda6d5dd8a434974c5c9450c6fbe2a3.svg",
+    "static/media/image 5.svg": "/indotrading-frontendtest/static/media/image 5.5e6d53279f510959bae330b96b465723.svg",
+    "static/media/slide4-indo.svg": "/indotrading-frontendtest/static/media/slide4-indo.eff70afbf55a1d0e931caa3cf12395c7.svg",
+    "static/media/menclothes.svg": "/indotrading-frontendtest/static/media/menclothes.3631fbb534c63098e7bef809b7b7348b.svg",
+    "static/media/womanclothes.svg": "/indotrading-frontendtest/static/media/womanclothes.c3a19941a5ee01dcb1b68e620a0a9147.svg",
+    "static/media/jewerly.svg": "/indotrading-frontendtest/static/media/jewerly.a6dce88f30e44af6d93df0555da1693c.svg",
+    "static/media/emptycart.svg": "/indotrading-frontendtest/static/media/emptycart.fd16e10e8d83a3dfb74eb9b3f6a39495.svg",
+    "static/media/indoradinglogo.svg": "/indotrading-frontendtest/static/media/indoradinglogo.761d19b43a763018bfa3a699b022c8bf.svg",
+    "index.html": "/indotrading-frontendtest/index.html",
+    "main.007db996.css.map": "/indotrading-frontendtest/static/css/main.007db996.css.map",
+    "main.7e7e482b.js.map": "/indotrading-frontendtest/static/js/main.7e7e482b.js.map",
+    "787.19788a51.chunk.js.map": "/indotrading-frontendtest/static/js/787.19788a51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007db996.css",
+    "static/js/main.7e7e482b.js"
+  ]
+}
