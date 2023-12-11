@@ -1,0 +1,122 @@
+.header {
+  margin-bottom: 10rem;
+}
+
+.top-nav {
+  background-color: #d42029;
+}
+
+.top-nav p {
+  color: #fff;
+  font-size: 0.8rem;
+}
+.top-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.top-nav a:hover {
+  color: #e88f93;
+}
+
+.navbar {
+  background-color: #d42029 !important;
+}
+
+.form {
+  width: 35rem;
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.search-btn {
+  background-color: #d42029;
+  outline: none;
+  border: none;
+  padding: 0.3rem;
+  width: 10rem;
+  border-radius: 0.2rem;
+  opacity: 1;
+}
+
+.search-btn:hover {
+  opacity: 0.7;
+}
+
+.filter-dropdown {
+  background: none;
+  outline: none;
+  border: none;
+}
+
+.login-btn {
+  background-color: #d42029;
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  min-width: 100px;
+  border-radius: 0.6rem;
+}
+
+.signin-btn {
+  background-color: #fff;
+  color: #d42029;
+  border: 2px solid #d42029;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  min-width: 100px;
+  border-radius: 0.6rem;
+}
+
+.cart-icon {
+  border: none;
+  background: none;
+}
+
+.cart-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.cart-icon:hover + .cart-dropdown {
+  display: block;
+}
+
+.custom-toggler.navbar-toggler {
+  color: #fff;
+  border-color: #fff;
+  border-width: 0.14rem;
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+
+.mobile-nav-list a {
+  color: #fff;
+  border-radius: 0.8rem;
+}
+
+.mobile-nav-list a:hover {
+  background-color: #7f3134;
+  color: #fff;
+  padding-inline-start: 1rem;
+  border-radius: 0.8rem;
+}
+
+@media screen and (min-width: 768px) {
+  .list {
+    display: none !important;
+  }
+}
